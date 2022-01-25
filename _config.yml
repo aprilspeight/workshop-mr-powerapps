@@ -8,18 +8,18 @@
 # Site settings
 title: Workshop
 email: april.a.speight@gmail.com
-description: The Jekyll version of the Phantom theme by HTML5 UP.
+description: Mixed Reality Power Apps workshop.
 baseurl: "/workshop-mr-powerapps" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
-logo-image-url: images/logo.svg
+logo-image-url: images/armchair.png
 font-awesome-icon-logo:
 
 # Social settings
 github_username: aprilspeight
 twitter_username: vogueandcode
-500px_username: andrewbanchich
+500px_username: aprilspeight
 
 # Build settings
 markdown: kramdown
