@@ -23,11 +23,11 @@ Complete the steps below to create the Product Information screen.
 1. In the top navigation, click **Insert** > **Icons** and select the **Back** icon.
 1. In the left panel, rename the **Icon** component **BackButton**.
 
-    ![A screenshot of the tree view. The Back Button component is highlighted.](../images/7-back-button-name.jpg)
+    ![A screenshot of the tree view. The Back Button component is highlighted.]({{ site.baseurl }}/images/7-back-button-name.jpg)
 
 1. Move the **BackButton** to align to the top left of the screen.
 
-    ![A screenshot of the canvas app. The back button is aligned at the top left of the app.](../images/7-back-button-icon.jpg)
+    ![A screenshot of the canvas app. The back button is aligned at the top left of the app.]({{ site.baseurl }}/images/7-back-button-icon.jpg)
 
 1. In the formula bar, for **OnSelect** enter `Navigate(Home,ScreenTransition.Fade)`.
 1. Test the app to confirm that the button navigates back to the **Home** screen.
@@ -37,7 +37,7 @@ Complete the steps below to create the Product Information screen.
 1. In the **Tree View** tab, select the **Home** screen.
 1. In the first row of the **ProductGallery** click the **>** icon.
 
-    ![A screenshot of the home screen for the canvas app. The right arrow icon is highlighted.](../images/7-arrow-icon.jpg)
+    ![A screenshot of the home screen for the canvas app. The right arrow icon is highlighted.]({{ site.baseurl }}/images/7-arrow-icon.jpg)
 
 1. In the **formula bar**, for **OnSelect** enter `Navigate(ProductInformation,ScreenTransition.Fade)`.
 1. Test the app to confirm that the button navigates to the **Product Information** screen.
@@ -58,11 +58,11 @@ Complete the steps below to create the Product Information screen.
 
     The **Tree view** should reflect the following:
 
-    ![A screenshot of the tree view. The product information components are highlighted.](../images/7-product-information-elements.jpg)
+    ![A screenshot of the tree view. The product information components are highlighted.]({{ site.baseurl }}/images/7-product-information-elements.jpg)
 
     The **ProductInformation** screen should reflect the following:
 
-    ![A screenshot of the product information screen for the canvas app. The screen consists of a back button, the product name, the product description, and the product price.](../images/7-product-information.jpg)
+    ![A screenshot of the product information screen for the canvas app. The screen consists of a back button, the product name, the product description, and the product price.]({{ site.baseurl }}/images/7-product-information.jpg)
 
 1. Test the app to confirm that depending on the selected product, the correct information displays on the **ProductInformation** screen.
 

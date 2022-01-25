@@ -26,11 +26,11 @@ Complete the steps below to add the View in 3D and View in MR controls to the Pr
 1. In the formula bar, for **Source** enter `ProductGallery.Selected.'3DModel'`.
 1. In the left panel, rename the **View in 3D** component **Product3D**.
 
-    ![A screenshot of the tree view. The product 3 d control is highlighted.](../images/8-product-3d.jpg)
+    ![A screenshot of the tree view. The product 3 d control is highlighted.]({{ site.baseurl }}/images/8-product-3d.jpg)
 
 1. Using the scale controls, resize the **Product3D** component to display between the **Back** icon and **product information**.
 
-    ![A screenshot of the product information screen for the canvas app. The screen consists of a back button, the product name, the product description, the product price, and the product 3 d control.](../images/8-view-3d.jpg)
+    ![A screenshot of the product information screen for the canvas app. The screen consists of a back button, the product name, the product description, the product price, and the product 3 d control.]({{ site.baseurl }}/images/8-view-3d.jpg)
 
 1. Test the app to view the 3D model of the product.
 
@@ -42,12 +42,12 @@ Complete the steps below to add the View in 3D and View in MR controls to the Pr
 1. In the formula bar, for **Source** enter `ProductGallery.Selected.'3DModel'`.
 1. In the left panel, rename the **View in 3D** component **ProductMR**.
 
-    ![A screenshot of the tree view. The product m r control is highlighted.](../images/8-product-mr.jpg)
+    ![A screenshot of the tree view. The product m r control is highlighted.]({{ site.baseurl }}/images/8-product-mr.jpg)
 
 1. In the right **View in MR** panel, change the **Display Type** to **Icon**.
 1. Using the scale controls, resize the **ProductMR** component to the size of the icon and move the icon to display at the bottom left of the **ProductMR** control.
 
-    ![A screenshot of the product information screen for the canvas app. The screen consists of a back button, the product name, the product description, the product price, the product 3 d control, and the product m r control.](../images/8-canvas-view-mr.jpg)
+    ![A screenshot of the product information screen for the canvas app. The screen consists of a back button, the product name, the product description, the product price, the product 3 d control, and the product m r control.]({{ site.baseurl }}/images/8-canvas-view-mr.jpg)
 
 1. Test the app to view the 3D model in Mixed Reality.
 
@@ -58,11 +58,11 @@ Complete the steps below to add the View in 3D and View in MR controls to the Pr
 1. In the top navigation, click **Insert** > **Icons** and select the **Back** icon.
 1. In the left panel, rename the **Icon** component **BackButton**.
 
-    ![A screenshot of the tree view. The back button control is highlighted.](../images/8-view-mr-photo-back-button.jpg)
+    ![A screenshot of the tree view. The back button control is highlighted.]({{ site.baseurl }}/images/8-view-mr-photo-back-button.jpg)
 
 1. Move the **BackButton** to align to the top left of the screen.
 
-    ![A screenshot of the m r photo gallery screen. The screen consists of a back button aligned at the top left of the screen.](../images/8-mr-photo-gallery-screen.jpg)
+    ![A screenshot of the m r photo gallery screen. The screen consists of a back button aligned at the top left of the screen.]({{ site.baseurl }}/images/8-mr-photo-gallery-screen.jpg)
 
 1. In the formula bar, for **OnSelect** enter `Navigate(ProductInformation,ScreenTransition.Fade)`.
 1. In the left panel, click the **Tree View** and select the **Product Information** screen.
@@ -71,7 +71,7 @@ Complete the steps below to add the View in 3D and View in MR controls to the Pr
 1. In the formula bar, for **OnSelect** enter `Navigate(ViewMRPhotos,Fade)`.
 1. In the left panel, rename the button **ViewPhotos**.
 
-    ![A screenshot of the tree view. The view photos control is highlighted.](../images/8-view-photos.jpg)
+    ![A screenshot of the tree view. The view photos control is highlighted.]({{ site.baseurl }}/images/8-view-photos.jpg)
 
 1. Test the app to confirm that the **ViewPhotos** button navigates to the **ViewMRPhotos** screen. Once on the **ViewMRPhotos** screen, test the app to confirm that the **Back** navigation button navigates to the **ProductInformation** screen.
 
@@ -82,15 +82,15 @@ Complete the steps below to add the View in 3D and View in MR controls to the Pr
 1. In the formula bar, for **Items** enter `ProductMR.Photos`.
 1. In the left panel, rename the **Gallery** component **ViewMRGallery**.
 
-    ![A screenshot of the tree view. The view m r gallery component is highlighted.](../images/8-view-mr-gallery.jpg)
+    ![A screenshot of the tree view. The view m r gallery component is highlighted.]({{ site.baseurl }}/images/8-view-mr-gallery.jpg)
 
 1. In the left panel, expand the **ViewMRGallery** component to view it's elements. Rename the **Image** component to **PhotoTaken**.
 
-    ![A screenshot of the tree view. The photo taken component is highlighted.](../images/8-photo-taken.jpg)
+    ![A screenshot of the tree view. The photo taken component is highlighted.]({{ site.baseurl }}/images/8-photo-taken.jpg)
 
 1. Move and scale the **ViewMRGallery** to align with the height and width of the app screen below the **Back** navigation button.
 
-    ![A screenshot of the m r photo gallery screen. The screen consists of a back button and a large blank rectangle for the gallery.](../images/8-view-mr-gallery-scaled.jpg)
+    ![A screenshot of the m r photo gallery screen. The screen consists of a back button and a large blank rectangle for the gallery.]({{ site.baseurl }}/images/8-view-mr-gallery-scaled.jpg)
 
 1. Test the app to confirm that photos taken while viewing a product in MR appears on the **ViewMRPhotos** screen.
 
@@ -100,11 +100,11 @@ Complete the steps below to add the View in 3D and View in MR controls to the Pr
 1. In the left panel, click the **Insert** icon and select **Image**.
 1. In the left panel, rename the **Image** component **ImageZoom**.
 
-    ![A screenshot of the tree view. The image zoom component is highlighted.](../images/8-photo-taken.jpg)
+    ![A screenshot of the tree view. The image zoom component is highlighted.]({{ site.baseurl }}/images/8-photo-taken.jpg)
 
 1. Move and scale the **ImageZoom** to align with the height and width of the app screen below the **Back** navigation button.
 
-    ![A screenshot of the m r photo gallery screen. The screen consists of a back button and a large blank rectangle for the image zoom photo.](../images/8-image-zoom.jpg)
+    ![A screenshot of the m r photo gallery screen. The screen consists of a back button and a large blank rectangle for the image zoom photo.]({{ site.baseurl }}/images/8-image-zoom.jpg)
 
 1. In the formula bar, for **OnSelect** enter `UpdateContext({vVisibleImageZoom:false})`. When the image is pressed, the app will close the zoom of the image.
 1. In the formula bar, for **Image** enter `ViewMRGallery.Selected.PhotoTaken`.
