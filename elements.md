@@ -302,8 +302,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 <div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
 <div class="4u$"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="/images/pic02.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="/images/pic03.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
 <div class="4u$"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
 </div>
 </div>
