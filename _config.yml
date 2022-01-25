@@ -9,8 +9,8 @@
 title: MR Power Apps Workshop
 email: april.a.speight@gmail.com
 description: Mixed Reality Power Apps workshop.
-baseurl: /workshop-mr-powerapps # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/workshop-mr-powerapps" # the subpath of your site, e.g. /blog
+url: "https://aprilspeight.github.io" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/armchair.png
