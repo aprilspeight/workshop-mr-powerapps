@@ -1,73 +1,33 @@
-# (WIP) Phantom - Jekyll Theme
+# Scenario
 
-A Jekyll version of the "Phantom" theme by [HTML5 UP](https://html5up.net/).
+Contoso Furnishings, a local home goods store, has hired you to create an app for their store catalog. They'd like the app to enable their customers to do the following:
 
-![Phantom Theme](../../images/phantom.jpg "Phantom Theme")
+- Measure their space using an in-app MR ruler
+- View and filter a catalog of products
+- View products in their space
+- Take a photo of products in their space
+- View all photos taken within the app
 
-# How to Use
+You've decided that Power Apps would be the ideal platform for creating the app. Your task is to create an app for Contoso Furnishings using Power Apps.
 
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+## Access the Workshop
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file!
+You can access the workshop by visiting: [aprilspeight.github.io/workshop-mr-powerapps](https://aprilspeight.github.io/workshop-mr-powerapps/)
 
-# Added Features
+## Need help?
 
-I've integrated lots of nice Jekyll features into the theme, such as:
-* [Formspree.io](https://formspree.io/) contact form integration - just add your email to the `_config.yml` and it works!
-* Your social profiles are linked from usernames you enter in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer.
-* Site logo support - Easily set any image or [Font Awesome icon](http://fontawesome.io/icons/) as your logo. If you enter a Font Awesome icon class in `_config.yml` it will override the default image used as the site logo.
-* **Coming soon**: Featured ../../images and thumbnails in front matter for the homepage posts grid.
-* **Coming soon**: Easy featured image settings in `_config.yml` - choose to have Jekyll use a set height for featured ../../images or have it display the entire image, pushing the page content further down.
+If you have any issues completing the steps in this workshop, submit an issue within the [GitHub Issues](https://github.com/aprilspeight/workshop-mr-powerapps/issues) for this repository.
 
-# Issues
+## Resources
 
-If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/phantom-jekyll-theme) and I will be more than happy to help!
+Learn more about Measure in MR. (https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-measure-distance)
 
-Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/phantom-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/phantom-jekyll-theme@incoming.gitlab.com).
+Learn more about View in 3D. (https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-3d)
 
-The GitHub repository is simply a mirror of the GitLab repository.
+Learn more about View in MR. (https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-mr)
 
-# Credits
+Learn more about the Connectors for Canvas Apps. (https://docs.microsoft.com/powerapps/maker/canvas-apps/connections-list)
 
-Original README from HTML5 UP:
+Try the Build a 3D Mobile App with Power Apps in Mixed Reality Learn Module. (https://aka.ms/learn-mrpowerapps)
 
-```
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
-
-Demo ../../images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) ../../images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo ../../images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
-```
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+Get open-source 3D models. (https://aka.ms/models)
