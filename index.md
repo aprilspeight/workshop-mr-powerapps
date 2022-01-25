@@ -37,7 +37,7 @@ Follow the <a href="https://aprilspeight.github.io/workshop-mr-powerapps/prerequ
 
 <li>Try the <a href="https://aka.ms/learn-mrpowerapps">Build a 3D Mobile App with Power Apps in Mixed Reality</a> Learn Module.</li>
 
-<li>Get open-source <a href="https://aka.ms/models">3D models.</li>
+<li>Get open-source <a href="https://aka.ms/models">3D models</a>.</li>
 </ul>
 
 </header>
