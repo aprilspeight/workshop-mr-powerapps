@@ -11,6 +11,7 @@ Thanks for joining us for our upcoming workshop! Using the Power Apps platform f
 1. Click **Join now**.
 
     ![A screenshot of the Join Microsoft 365 Developer Program text. The Join Now button is highlighted.](images/join-m365-dev-program.jpg)
+
 1. Sign in to your Microsoft account or Create a Microsoft account
 
     **Note**: First try signing in with your school account as you may already have access to the platforms that’ll be used for this workshop. Alternatively, you can create a new account using your personal email address. If you’re creating a new account, you’ll need to validate the account with a phone number.
@@ -18,7 +19,7 @@ Thanks for joining us for our upcoming workshop! Using the Power Apps platform f
 1. Complete the **Join the Microsoft 365 Developer Program!** form.
 1. After your account is created, go to [developer.microsoft.com/microsoft-365/profile](https://developer.microsoft.com/microsoft-365/profile) to retrieve your username. If you are not signed in, sign in using your Microsoft account (the same credentials from **Step 3**).
 1. Copy/Save the **Administrator** email address for signing into the Power Apps portal.
-1. 
+
     ![A screenshot of the location of the administrator email. The email is highlighted.](images/administrator-email.jpg)
 
 ## Sign-Up for a Power Apps Community Plan
