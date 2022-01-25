@@ -67,5 +67,5 @@ Complete the steps below to create the product information Excel spreadsheet and
 
 <ul class="actions">
 <li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/jekyll/update/2022/01/07/step-two.html" class="button special">Back</a></li>
-<li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/jekyll/update/2022/01/05/step-four.html">Next</a></li>
+<li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/jekyll/update/2022/01/05/step-four.html" class="button">Next</a></li>
 </ul>
