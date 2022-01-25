@@ -1,7 +1,43 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "Step Three"
 date:   2022-01-06 12:00:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+## Connect the Data
+
+Data is at the core of most apps, including the data you build in Power Apps. Data is stored in a data source, and you bring that data into your app by creating a connection. The connection uses a specific connector to talk to the data source. Power Apps has connectors for many popular services and on-premises data sources, including SharePoint, SQL Server, Office 365, Salesforce, and Twitter. A connector may provide tables of data or actions. Some connectors provide only tables, some provide only actions, and some provide both. Also your connector may be either a standard or custom connector.
+
+For the Contoso Furnishings app, you'll need to connect the app to the Excel spreadsheet which contains the product information. Fortunately, the Excel spreadsheet is saved to OneDrive for Business, one of the many supported data connectors!
+
+## Instructions
+
+Complete the steps below to connect the production information data.
+
+1. In the left panel, click the **Data** icon and click **Add Data**.
+
+    ![A screenshot of the data tab. There data icon and add data button are highlighted.](../images/3-add-data.jpg)
+
+1. In the **Select a data source** window, search for **OneDrive for Business** and select the result.
+
+    ![A screenshot of the select a data source window. One drive for business is entered into the search bar.](../images/3-search-one-drive.jpg)
+
+1. After you select **OneDrive for Business**, the result will display your email address. Select **OneDrive for Business** once more.
+
+    ![A screenshot of the select a data source window. The One Drive for Business option displays an email address. The option is highlighted.](../images/3-one-drive-email-address.jpg)
+
+1. In the **Choose an Excel file** tab that appears, select the **Workshop folder**.
+
+    ![A screenshot of the choose an excel file panel. The workshop folder is highlighted.](../images/3-choose-an-excel.jpg)
+
+1. Inside the **Workshop** folder, select the **products.xlsx** file.
+
+    ![A screenshot of the choose an excel file panel. The products file is highlighted.](../images/3-products-file.jpg)
+
+1. Select the **Products** table. This is the table you created that lists all product information for the app.
+
+    ![A screenshot of the choose a table window. The products table checked and highlighted.](../images/3-choose-a-table.jpg)
+
+1. At the bottom of the panel, click **Connect**.
+
+After the data is connected, Power Apps will add a new __PowerAppsID__ column to the spreadsheet. This column contains the Power Apps generated unique ID for the product.
