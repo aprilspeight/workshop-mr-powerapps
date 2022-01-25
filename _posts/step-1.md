@@ -1,0 +1,30 @@
+---
+layout: default
+title:  "Create a Canvas App"
+date:   2022-01-25 12:00:00 -0400
+categories: jekyll update
+---
+# Create a Canvas App
+
+Power Apps are organizational-specific applications or tools that allow you to create custom applications using many features, including a data platform that provides a flexible development environment to build custom apps for your business. Applications built with Power Apps offer great business logic to transform your manual business functions into automated processes. Also, these applications can be accessed via mobile devices or the browser, enabling users to create custom apps without writing code.
+
+Power Apps provides an extensible platform for users with minimal coding experience to develop applications with rich business logic. In addition, creators find it easy to interact with data and metadata while using Power Apps.
+
+Through Power Apps, you can create canvas applications. Microsoft Power Apps allows you to build business apps from a canvas with minimal coding. Creating a canvas app in Power Apps is as easy as dragging and dropping components onto the canvas, just as designing a PowerPoint presentation. You can also integrate business logic through various data sources.
+
+## Instructions
+
+Complete the steps below to create a new Canvasapp.
+
+1. In the browser, navigate to [make.powerapps.com](https://make.powerapps.com).
+1. In the left navigation, click **+ Create**.
+
+    ![A screenshot of the Power Apps portal left navigation menu. The + Create button is highlighted.](../images/1-create.jpg)
+1. Underneath **Make your own app** select **Canvas app from blank**.
+    ![A screenshot of the Power Apps portal. The canvas app from blank button is highlighted.](../images/1-canvas-app.jpg)
+1. Enter the app name **Contoso Furnishings**. For the **Format** select **Phone**. Next, click **Create**.
+    ![A screenshot of the canvas app from blank window. The App name and Format sections are highlighted.](../images/1-create-app.jpg)
+1. On the Canvas screen, click **File** > **Save as** > **The cloud**.
+    ![A screenshot of the Save as screen. The the cloud button is highlighted.](../images/1-save.jpg)
+1. Click **Save**.
+1. Click the **Back arrow** in the left navigation menu to return to the canvas app.
