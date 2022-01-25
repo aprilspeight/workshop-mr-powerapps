@@ -26,17 +26,19 @@ Follow the <a href="https://aprilspeight.github.io/workshop-mr-powerapps/prerequ
 <p>If you have any issues completing the steps in this workshop, submit an issue within the <a href="https://github.com/aprilspeight/workshop-mr-powerapps/issues">GitHub Issues</a> for this repository.</p>
 
 <h2>Resources</h2>
-Learn more about <a href="https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-measure-distance">Measure in MR</a>.
+<ul>
+<li>Learn more about <a href="https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-measure-distance">Measure in MR</a>.</li>
 
-Learn more about <a href="https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-3d">View in 3D</a>.
+<li>Learn more about <a href="https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-3d">View in 3D</a>.</li>
 
-Learn more about <a href="https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-mr">View in MR</a>.
+<li>Learn more about <a href="https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-mr">View in MR</a>.</li>
 
-Learn more about the <a href="https://docs.microsoft.com/powerapps/maker/canvas-apps/connections-list">Connectors for Canvas Apps</a>.
+<li>Learn more about the <a href="https://docs.microsoft.com/powerapps/maker/canvas-apps/connections-list">Connectors for Canvas Apps</a>.</li>
 
-Try the <a href="https://aka.ms/learn-mrpowerapps">Build a 3D Mobile App with Power Apps in Mixed Reality</a> Learn Module.
+<li>Try the <a href="https://aka.ms/learn-mrpowerapps">Build a 3D Mobile App with Power Apps in Mixed Reality</a> Learn Module.</li>
 
-Get open-source <a href="https://aka.ms/models">3D models.
+<li>Get open-source <a href="https://aka.ms/models">3D models.</li>
+</ul>
 </header>
 
 {% include tiles.html %}
