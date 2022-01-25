@@ -19,12 +19,12 @@ Complete the steps below to create a new Canvasapp.
 1. In the browser, navigate to [make.powerapps.com](https://make.powerapps.com).
 1. In the left navigation, click **+ Create**.
 
-    ![A screenshot of the Power Apps portal left navigation menu. The + Create button is highlighted.](../images/1-create.jpg)
+    ![A screenshot of the Power Apps portal left navigation menu. The + Create button is highlighted.](../../images/1-create.jpg)
 1. Underneath **Make your own app** select **Canvas app from blank**.
-    ![A screenshot of the Power Apps portal. The canvas app from blank button is highlighted.](../images/1-canvas-app.jpg)
+    ![A screenshot of the Power Apps portal. The canvas app from blank button is highlighted.](../../images/1-canvas-app.jpg)
 1. Enter the app name **Contoso Furnishings**. For the **Format** select **Phone**. Next, click **Create**.
-    ![A screenshot of the canvas app from blank window. The App name and Format sections are highlighted.](../images/1-create-app.jpg)
+    ![A screenshot of the canvas app from blank window. The App name and Format sections are highlighted.](../../images/1-create-app.jpg)
 1. On the Canvas screen, click **File** > **Save as** > **The cloud**.
-    ![A screenshot of the Save as screen. The the cloud button is highlighted.](../images/1-save.jpg)
+    ![A screenshot of the Save as screen. The the cloud button is highlighted.](../../images/1-save.jpg)
 1. Click **Save**.
 1. Click the **Back arrow** in the left navigation menu to return to the canvas app.

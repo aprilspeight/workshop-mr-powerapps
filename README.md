@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Phantom" theme by [HTML5 UP](https://html5up.net/).
 
-![Phantom Theme](../images/phantom.jpg "Phantom Theme")
+![Phantom Theme](../../images/phantom.jpg "Phantom Theme")
 
 # How to Use
 
@@ -19,8 +19,8 @@ I've integrated lots of nice Jekyll features into the theme, such as:
 * [Formspree.io](https://formspree.io/) contact form integration - just add your email to the `_config.yml` and it works!
 * Your social profiles are linked from usernames you enter in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer.
 * Site logo support - Easily set any image or [Font Awesome icon](http://fontawesome.io/icons/) as your logo. If you enter a Font Awesome icon class in `_config.yml` it will override the default image used as the site logo.
-* **Coming soon**: Featured ../images and thumbnails in front matter for the homepage posts grid.
-* **Coming soon**: Easy featured image settings in `_config.yml` - choose to have Jekyll use a set height for featured ../images or have it display the entire image, pushing the page content further down.
+* **Coming soon**: Featured ../../images and thumbnails in front matter for the homepage posts grid.
+* **Coming soon**: Easy featured image settings in `_config.yml` - choose to have Jekyll use a set height for featured ../../images or have it display the entire image, pushing the page content further down.
 
 # Issues
 
@@ -45,7 +45,7 @@ image tiles (of which you can have as many or as few as you like). Makes use of 
 SVG and animation techniques I've been experimenting with on that other project of mine
 you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
 
-Demo ../images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) ../images
+Demo ../../images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) ../../images
 you can use for pretty much whatever.
 
 (* = not included)
@@ -56,7 +56,7 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Demo ../images:
+	Demo ../../images:
 		Unsplash (unsplash.com)
 
 	Icons:

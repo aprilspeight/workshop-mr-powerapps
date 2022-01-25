@@ -1,7 +1,24 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "Setup Folder Structure"
 date:   2016-07-17 12:00:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+# Setup Folder Structure
+
+For this app, you'll leverage [OneDrive]('https://onedrive.live.com/') to create, save, and populate data for the Contoso Furnishings app. Doing so requires proper setup of the project folders. You'll need to create folders for both product pictures and product models. In addition, an Excel spreadsheet will be needed to store product information. The Excel spreadsheet will include relative links to the files within the product picture and model folders. Therefore, ensure that the overall project folder is setup as instructed.
+
+## Instructions
+
+Complete the steps below to setup the folder structure for the app.
+
+1. Download the [Products]() zip file within the repository.
+1. Extract the zip files on your computer.
+1. In the browser, navigate to [portal.office.com/onedrive](https://portal.office.com).
+1. Sign-in using your **administrator credentials** for the M365 Developer Program.
+1. In OneDrive, click **+ New** to create a new folder. Name the folder **Workshop**.
+
+    ![A screenshot of the One Drive window. The + New button is highlighted.](../images/2-new.jpg)
+1. Inside the **Workshop** folder, drag or upload the extracted **Models** and **Photos** folder.
+
+    ![A screenshot of the Workshop folder in One Drive. There is a Models folder and Photos folder in the Workshop folder.](../images/2-folders.jpg)
