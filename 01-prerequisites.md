@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generic Test
+title: Prerequisites
 featured-image:
 ---
 
