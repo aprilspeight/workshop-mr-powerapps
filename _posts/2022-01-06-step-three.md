@@ -41,3 +41,8 @@ Complete the steps below to connect the production information data.
 1. At the bottom of the panel, click **Connect**.
 
 After the data is connected, Power Apps will add a new __PowerAppsID__ column to the spreadsheet. This column contains the Power Apps generated unique ID for the product.
+
+<ul class="actions">
+<li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/jekyll/update/2022/01/07/step-two.html" class="button special">Back</a></li>
+<li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/jekyll/update/2022/01/05/step-four.html" class="button">Next</a></li>
+</ul>

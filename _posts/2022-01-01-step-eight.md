@@ -113,3 +113,8 @@ Complete the steps below to add the View in 3D and View in MR controls to the Pr
 1. Click the **PhotoTaken** element.
 1. In the formula bar, for **OnSelect** enter `UpdateContext({vVisibleImageZoom:true})`. When the image is pressed, the app will display a larger view of the image.
 1. Test the app to confirm that you can zoom to view the photos within the **ViewMRGallery** component.
+
+<ul class="actions">
+<li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/jekyll/update/2022/01/02/step-seven.html" class="button special">Back</a></li>
+<li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/" class="button">Home</a></li>
+</ul>

@@ -65,3 +65,8 @@ Complete the steps below to create the Product Information screen.
     ![A screenshot of the product information screen for the canvas app. The screen consists of a back button, the product name, the product description, and the product price.](../images/7-product-information.jpg)
 
 1. Test the app to confirm that depending on the selected product, the correct information displays on the **ProductInformation** screen.
+
+<ul class="actions">
+<li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/jekyll/update/2022/01/03/step-six.html" class="button special">Back</a></li>
+<li><a href="https://aprilspeight.github.io/workshop-mr-powerapps/jekyll/update/2022/01/01/step-eight.html" class="button">Next</a></li>
+</ul>
