@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Prerequisites
+featured-image:
 ---
 
 Thanks for joining us for our upcoming workshop! Using the Power Apps platform for this workshop requires that you have access to a sandbox environment. You can get a sandbox environment as part of the M365 Developer Program. Sign-up is free but does require a phone number for authentication to ensure that your account is protected. Follow the instructions below to create your own Microsoft tenant and gain access to the Power Apps portal.
