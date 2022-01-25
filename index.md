@@ -39,6 +39,7 @@ Follow the <a href="https://aprilspeight.github.io/workshop-mr-powerapps/prerequ
 
 <li>Get open-source <a href="https://aka.ms/models">3D models.</li>
 </ul>
+
 </header>
 
 {% include tiles.html %}
