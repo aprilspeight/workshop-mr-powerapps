@@ -7,11 +7,13 @@ title: Home
 <h1>Scenario</h1>
 <p>Contoso Furnishings, a local home goods store, has hired you to create an app for their store catalog. They'd like the app to enable their customers to do the following:
 
-- Measure their space using an in-app MR ruler
-- View and filter a catalog of products
-- View products in their space
-- Take a photo of products in their space
-- View all photos taken within the app
+<ul>
+<li>Measure their space using an in-app MR ruler</li>
+<li>View and filter a catalog of products</li>
+<li>View products in their space</li>
+<li>Take a photo of products in their space</li>
+<li>View all photos taken within the app</li>
+</ul>
 
 You've decided that Power Apps would be the ideal platform for creating the app. Your task is to create an app for Contoso Furnishings using Power Apps.</p>
 
